@@ -1,16 +1,13 @@
-## Hi there 👋
+About @Protomyst
+====
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+there!+This+is+Protomyst.)](https://git.io/typing-svg)  
 
-<!--
-**Protomyst/Protomyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on building my personal blog.
+- 🌱 I’m currently learning `JS`.
+- 📫 How to reach me: email me at protomyst@outlook.com or call `+86 13675761866` (not recommended)
+- 😄 Pronouns: he/ him
+- 🍹 I' m available only on weekends.
 
-Here are some ideas to get you started:
+![](https://github-readme-stats.vercel.app/api?username=Protomyst&show_icons=true&theme=transparent)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Protomyst&layout=compact&theme=transparent)
