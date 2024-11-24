@@ -6,7 +6,7 @@ About @Protomyst
 - 🌱 I’m currently learning `JS`.
 - 📫 How to reach me: email me at protomyst@outlook.com or call `+86 13675761866` (not recommended)
 - 😄 Pronouns: he/ him
-- ⚡ Fun fact: I' m now studying at Shaoxing No.1 Highh School. 
+- ⚡ Website: protomyst.cn
 - 🍹 I' m available only on weekends.
 
 ![](https://github-readme-stats.vercel.app/api?username=Protomyst&show_icons=true&theme=transparent)
